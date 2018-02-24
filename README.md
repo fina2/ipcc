@@ -6,7 +6,7 @@ BENEFITS:
 Centralized References;
 No client side soft to install;
 No hidden charges  (like MS Access); 
-Works on all Operating Systems ;
+Works on all Operating Systems Lunux, Windows, MacOS;
 Effective Support & Maintenance;
 Multi User & Team  Work.  
 
@@ -19,4 +19,4 @@ Database Independence will allow us to  work with many database admins / users.
 Open Technology and open management will allow to build trusted relationship between all parties;
 No advance payments;
 Payments only for deliveries and successful milestones 
-Security & Confidentiality is in separate presentation. 
+Security & Confidentiality is in separate presentation.
